@@ -47,9 +47,10 @@ public class Menu {
         Arquivo.lerArquivo(txt);
         System.out.print("Digite o CÓDIGO do livro: ");
         int cod = entrada.nextInt();
-        if(cod > Arquivo.getQtdLinhas()){
+        while(cod > Arquivo.getQtdLinhas()){
             System.out.println("Código INVÁLIDO!");
-            digitarCodigo();
+            System.out.print("Digite um código VÁLIDO:");
+            cod = entrada.nextInt();
         }
         return cod;
     }
