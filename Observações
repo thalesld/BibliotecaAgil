@@ -1,0 +1,12 @@
+Boa Tarde!
+
+Me chamo Thales e resolvi escolher o exercicio sobre a Biblioteca Áil pois achei interessante o desafio do "banco de dados".
+Então tive a ideia de usar um arquivo.txt como meu banco, apresentando e gravando as informações dos livros direto no arquivo.
+Consegui realizar a manutenção do dele a partir de metodos com 'Try/catch' pra tratar as excessões do JAVA, que se encontram dentro da classe: 'Arquivo.java'.
+As funcionalidades solicitadas no enunciado estão na classe: 'Funcionalidades.java' e o menu na classe: 'Menu.java'.
+Tive dificuldade na parte de substituir palavras no arquivo, mas encontrei uma solução (neste link: https://frwk.com.br/fazendo-um-find-replace-em-um-arquivo-em-java/) e adaptei ela ao meu código.
+
+Criei um repositório no GitHub e coloquei meu projeto lá, para que eu possa melhorá-lo com o tempo.
+Segue o link: https://github.com/thalesld/BibliotecaAgil
+
+Desde já, agradeço pela oportunidade.
